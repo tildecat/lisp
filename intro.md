@@ -7,7 +7,7 @@ So I want to finally learn some Lisp. Today there are many languages claiming to
 
 The oldest one is [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) which started it's life in 1975. The nice thing about Scheme is that it's a **very** small language. Next one is [Common Lisp](https://en.wikipedia.org/wiki/Common_Lisp) which started almost 10 years later - in 1984. The nice thing about Common Lisp is that it is **very** big language. After next 10 years (in 1995) we got [Racket](https://racket-lang.org/) (back than called DrScheme). The nice thing about Racket is quality of its' documentation and it's macro system. Finally after 12 years (in 2007) we got [Clojure](https://en.wikipedia.org/wiki/Clojure). The nice thing about Clojure is that it's running on JVM and its solution to state management in multithreaded applications. So, those are (as far as I can tell) 4 major dialects active today[^1], where is the fifth one? It's [Emacs Lisp](https://en.wikipedia.org/wiki/Emacs_Lisp) (from 1985). The nice thing about Elisp is that it's used as scripting language in Emacs.
 
-[^1]: It's 11 years since major new Lisp dialect, should we expect new one soon? Will it be [Fennel](https://fennel-lang.org/) or maybe [Hy](http://hylang.org/), or maybe one I've never heard of?
+[^1]: It's 11 years since major new Lisp dialect, should we expect new one soon? Will it be [Fennel](https://fennel-lang.org/), [Hy](http://hylang.org/), [Carp](https://github.com/carp-lang/Carp) or maybe one I've never heard of?
 
 So which one to chose? I think all of them are good choice. I've dabbled in all of them except Elisp. In the end I've decided to learn Common Lisp and will be using [Sbcl](http://www.sbcl.org/) implementation.
 
